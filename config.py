@@ -1,1 +1,1 @@
-BOT_TOKEN = "5274483655:AAGrizDAr2-abcJNfp5AKMEeBq7gB2KWh0k"
+BOT_TOKEN = "Top secret"
